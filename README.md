@@ -1,2 +1,0 @@
-# Portfolio-projekt
-min portfolio
